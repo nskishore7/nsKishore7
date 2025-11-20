@@ -18,7 +18,7 @@
 
 ### 🧠 About Me  
 
-I’m a **MERN Stack Developer** with **2.6+ years of hands-on experience**, specializing in building scalable and modern web applications using React, Node.js, Express, and MongoDB.  
+I’m a **MERN Stack Developer** with **1 years of hands-on experience**, specializing in building scalable and modern web applications using React, Node.js, Express, and MongoDB.  
 I focus on **clean code**, **performance optimization**, and **creating intuitive user experiences**.
 
 - 🔭 **Currently working on:** Full Stack MERN Projects  
